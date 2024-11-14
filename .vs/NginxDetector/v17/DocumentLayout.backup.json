@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\mine_project\\NginxDetector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2078150C-B988-4790-A1FC-21E5437A6E5B}|NginxDetector.csproj|e:\\code\\mine_project\\nginxdetector\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2078150C-B988-4790-A1FC-21E5437A6E5B}|NginxDetector.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2078150C-B988-4790-A1FC-21E5437A6E5B}|NginxDetector.csproj|e:\\code\\mine_project\\nginxdetector\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2078150C-B988-4790-A1FC-21E5437A6E5B}|NginxDetector.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2078150C-B988-4790-A1FC-21E5437A6E5B}|NginxDetector.csproj|e:\\code\\mine_project\\nginxdetector\\nginxthreadinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2078150C-B988-4790-A1FC-21E5437A6E5B}|NginxDetector.csproj|solutionrelative:nginxthreadinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2078150C-B988-4790-A1FC-21E5437A6E5B}|NginxDetector.csproj|e:\\code\\mine_project\\nginxdetector\\nginxdetector.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2078150C-B988-4790-A1FC-21E5437A6E5B}|NginxDetector.csproj|solutionrelative:nginxdetector.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NginxThreadInfo.cs",
+              "DocumentMoniker": "E:\\code\\mine_project\\NginxDetector\\NginxThreadInfo.cs",
+              "RelativeDocumentMoniker": "NginxThreadInfo.cs",
+              "ToolTip": "E:\\code\\mine_project\\NginxDetector\\NginxThreadInfo.cs",
+              "RelativeToolTip": "NginxThreadInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:00:39.949Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\code\\mine_project\\NginxDetector\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\code\\mine_project\\NginxDetector\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T03:12:22.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NginxDetector",
+              "DocumentMoniker": "E:\\code\\mine_project\\NginxDetector\\NginxDetector.csproj",
+              "RelativeDocumentMoniker": "NginxDetector.csproj",
+              "ToolTip": "E:\\code\\mine_project\\NginxDetector\\NginxDetector.csproj",
+              "RelativeToolTip": "NginxDetector.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T15:01:16.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\code\\mine_project\\NginxDetector\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\code\\mine_project\\NginxDetector\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:00:42.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
