@@ -9,17 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4159bb20-5bdd-4f19-bf61-43c5af5baf8c" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NginxDetector/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NginxDetector/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector_MarkupCompile.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0-windows/NginxDetector_MarkupCompile.lref" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0-windows/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/net8.0-windows/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0-windows/ref/NginxDetector.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/net8.0-windows/ref/NginxDetector.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0-windows/refint/NginxDetector.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/net8.0-windows/refint/NginxDetector.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +92,7 @@
       <workItem from="1731547018551" duration="71000" />
       <workItem from="1731547099792" duration="575000" />
       <workItem from="1731908375693" duration="719000" />
-      <workItem from="1731909112819" duration="532000" />
+      <workItem from="1731909112819" duration="563000" />
     </task>
     <servers />
   </component>
