@@ -113,6 +113,25 @@ public partial class MainWindow : Window
         }
     }
 
+    public void DeleteAllNginxThreadClick(object sender, RoutedEventArgs e)
+    {
+        // 获取DataGrid中选中的所有行
+        var nginxThreads = nginxThreadsGrid.ItemsSource as IEnumerable<NginxThreadInfo>;
+        if(nginxThreads==null) 
+            return;
+        // 使用LINQ查询获取所有Nginx线程信息
+        var threadsToDelete = nginxThreads.ToList();
+        // 遍历所有线程并删除
+        foreach (var threadInfo in threadsToDelete)
+        {
+            DeleteNginxThread(threadInfo.Pid);
+        }
+
+        // 清空DataGrid的数据源
+        nginxThreadsGrid.ItemsSource = null;
+        nginxThreadsGrid.ItemsSource = new List<NginxThreadInfo>();
+    }
+
     public List<NginxThreadInfo> GetNginxThreads()
     {
         var nginxThreads = new List<NginxThreadInfo>();

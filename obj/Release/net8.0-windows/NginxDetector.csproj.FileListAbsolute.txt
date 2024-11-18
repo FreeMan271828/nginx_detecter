@@ -18,3 +18,4 @@ E:\code\mine_project\NginxDetector\obj\Release\net8.0-windows\refint\NginxDetect
 E:\code\mine_project\NginxDetector\obj\Release\net8.0-windows\NginxDetector.pdb
 E:\code\mine_project\NginxDetector\obj\Release\net8.0-windows\NginxDetector.genruntimeconfig.cache
 E:\code\mine_project\NginxDetector\obj\Release\net8.0-windows\ref\NginxDetector.dll
+E:\code\mine_project\NginxDetector\obj\Release\net8.0-windows\NginxDetector.sourcelink.json
