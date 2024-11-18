@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NginxDetector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89783c13d0b15d3eee8b3d402249116121914089")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd1215a74a6a12d89bdf2d57f50e9adc886ae85")]
 [assembly: System.Reflection.AssemblyProductAttribute("NginxDetector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NginxDetector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
